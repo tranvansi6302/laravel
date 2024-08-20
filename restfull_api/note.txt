@@ -1,0 +1,7 @@
+Xây dựng CRUD
+- GET: /users => Lấy tất cả tài nguyên
+- GET: /users/id => Lấy 1 tài nguyên
+- POST: /users => Thêm mới 1 tài nguyên
+- PUT: /users/id => Cập nhật tất cả các trường của một tài nguyên
+- PATCH: /users/id => Cập nhật vài trường của một tài nguyên
+- DELETE: /users/id => Xóa 1 tài nguyên

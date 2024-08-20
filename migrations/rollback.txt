@@ -1,0 +1,5 @@
+Xác định step rollback
+- Vào table migrations
+- Xác định bước cần rollback thông qua cột batch
++ Nếu trường hợp mỗi lần có 1 bảng được tạo ví dụ 2 3 4 -> step=3
++ Trường hợp cột batch bị trùng ví dụ 1 1 1 ->  step vẫn là 3 

@@ -1,0 +1,2 @@
+1. Thiết lập Gate: Cho phép truy cập vào controller
+2. Thiết lập Policy: Ứng với mỗi Model
